@@ -11,3 +11,4 @@ const Transaction = ({transaction}) => {
 }
 
 export default Transaction
+//transaction._id
